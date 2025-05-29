@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Arunprsdk
+- 👀 I’m interested in ... Data Analytics, Machine Learning, and solving real-world problems with data
+- 🌱 I’m currently learning ...  I’m currently learning Data Analytics with a focus on Python, SQL, Excel, Power BI, and statistical methods
+- 💞️ I’m looking to collaborate on ... I’m looking to collaborate on data-driven projects, dashboards, and analytics for startups or social impact initiatives
+- 📫 How to reach me ... 9326129891 / arun14899k@gmail.com
+- 😄 Pronouns: ... He/Him 
+- ⚡ Fun fact: ... I can analyze a dataset faster than I can decide what to eat for dinner!
